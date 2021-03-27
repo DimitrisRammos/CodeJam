@@ -1,0 +1,14 @@
+#i ignore all the files
+*
+!*/
+
+# but not this
+!*.cpp
+!*.h
+!*.mk
+!*.txt
+!LICENSE
+!Makefile
+!.gitignore
+!README.md
+!.vscode/*.json
