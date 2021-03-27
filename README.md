@@ -1,5 +1,5 @@
 # CodeJam
-Code Jam is a competition from [Google.](www.google.com)
+Code Jam is a competition from [Google.](https://www.google.com/)
 
 ## Install
 
