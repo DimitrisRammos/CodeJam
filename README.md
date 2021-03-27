@@ -12,6 +12,7 @@ The vocalization of the Project find [here.](https://codingcompetitions.withgoog
 
 ## Compilation
 If you want compilation, than:
+
 cd QualificationRound
 
 After, change problem and after run in the terminal "make run".
