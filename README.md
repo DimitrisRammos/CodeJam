@@ -1,6 +1,6 @@
 # CodeJam
 
-![Image of Yaktocat](https://twitter.com/googlecodejam/photo)
+![Image of Yaktocat](https://4.bp.blogspot.com/-ncrFSUmp-sk/XFZtXx2V8zI/AAAAAAAABiM/rBiDmvM_J4UQOTe2p8xmZXNZHir_xGerwCLcBGAs/s1600/images.png)
 
 
 Code Jam is a competition from [Google.](https://www.google.com/)
