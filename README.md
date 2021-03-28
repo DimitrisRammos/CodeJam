@@ -1,5 +1,8 @@
 # CodeJam
+
 ![Image of Yaktocat](https://twitter.com/googlecodejam/photo)
+
+
 Code Jam is a competition from [Google.](https://www.google.com/)
 
 ## Install
