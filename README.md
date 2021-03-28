@@ -1,9 +1,8 @@
 # CodeJam
 
-![Image of Yaktocat](https://4.bp.blogspot.com/-ncrFSUmp-sk/XFZtXx2V8zI/AAAAAAAABiM/rBiDmvM_J4UQOTe2p8xmZXNZHir_xGerwCLcBGAs/s1600/images.png)
-
-
 Code Jam is a competition from [Google.](https://www.google.com/)
+
+![Image of CodeJam](https://miro.medium.com/max/4094/1*h_woVX1QKCNabHosdeBIRg.png)
 
 ## Install
 
